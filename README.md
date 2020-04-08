@@ -1,6 +1,6 @@
-# Daily Standups
+# Daily Stand-ups
 
-- Peoeple in my cohort decided to create a standup channel on Slack, so we can share our achievements, blockers and goals with each other every day to keep us motived 💪 (Special credit to Harry :star:).
+- People in my cohort decided to create a stand-up channel on Slack, so we can share our achievements, blockers and goals with each other every day to keep us motived 💪 (Special credit to Harry :star:).
 
 - I decided to also keep a copy on my GitHub to remind myself how far I've come 👑
 
@@ -11,7 +11,7 @@
 Yesterday
 
 - Fixed issues & adjusted styling of portfolio site :heavy_check_mark:
-- Applied to 2 jobs & updated email signature :heavy_check_mark:
+- Applied to 2 jobs & updated email signatures :heavy_check_mark:
 - Moved all my LinkedIn posts to Medium :heavy_check_mark:
 
 Blockers
@@ -61,7 +61,7 @@ Blockers
 Today
 
 - Follow-up/apply to 2 jobs
-- Side project: components breakdown, time planing, refresh TypeScript knowledge
+- Side project: components breakdown, time planning, refresh TypeScript knowledge
 - Write a post on WomenHack experience
 - LinkedIn HTML quiz (if have time)
 
@@ -72,7 +72,7 @@ Today
 Yesterday
 
 - Applied to 2 job :heavy_check_mark:
-- Side project: components breakdown, time planing, started building seasonal clock :heavy_check_mark:
+- Side project: components breakdown, time planning, started building seasonal clock :heavy_check_mark:
 - Studied React with TypeScript :heavy_check_mark:
 
 Blockers
@@ -92,7 +92,7 @@ Today
 Weekend
 
 - Applied to 7 job :heavy_check_mark:
-- Side project: built basic clock:heavy_check_mark:
+- Side project: built basic clock :heavy_check_mark:
 - Wrote post on WomenHack experience :heavy_check_mark:
 - Passed LinkedIn assessment on Git/HTML/React :heavy_check_mark:
 
@@ -137,7 +137,7 @@ Today
 Additional
 
 - Walked/ran for 3kms
-- Got my first call from a job application and I screwed it up so bad. Lessen learned!:slightly_smiling_face:
+- Got my first call from a job application and I screwed it up so bad. Lesson learned! :slightly_smiling_face:
 
 ---
 
@@ -163,7 +163,7 @@ Today
 Yesterday
 
 - Applied to 3 job :heavy_check_mark:
-- React docs: main concepts 9-12, lifecycle, hooks. Created a repo to share my note:heavy_check_mark:
+- React docs: main concepts 9-12, lifecycle, hooks. Created a repo to share my note :heavy_check_mark:
 - Interview preparation :heavy_check_mark:
 
 Today
@@ -179,7 +179,7 @@ Today
 Weekend
 
 - Applied to 4 job :heavy_check_mark:
-- Continued building tic-tac-toe game:heavy_check_mark:
+- Continued building tic-tac-toe game: heavy_check_mark:
 - Walked/ran 4kms :running:
 
 Blockers
@@ -200,7 +200,7 @@ Yesterday
 
 - Finished tic-tac-toe game :heavy_check_mark:
 - Deepened my understanding on react-router-dom :heavy_check_mark:
-- Worked on coding challenge after passed inital interview :heavy_check_mark:
+- Worked on coding challenge after passed initial interview :heavy_check_mark:
 
 Blockers
 
