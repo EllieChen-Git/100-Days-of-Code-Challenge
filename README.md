@@ -1,18 +1,37 @@
 # Daily Stand-ups
 
-- People in my cohort decided to create a stand-up channel on Slack, so we can share our achievements, blockers and goals with each other and keep us motived 💪 (Special credit to Harry :star:).
+<!-- template -->
 
-- I decided to also keep a copy on my GitHub to remind myself how far I've come 👑😊
+<!--
 
 ---
 
-<!-- template -->
+**Stand up | dd/04**
+
+Yesterday
+
+Blockers
+
+Today
+
+-->
+
+### Why I Decided to Start This Project
+
+- 25/03/2020: People in my cohort decided to create a stand-up channel on Slack, so we can share our achievements, blockers and goals with each other and keep us motived 💪 (Special credit to Harry :star:).
+
+- 08/04/2020: I decided to also keep a copy on my GitHub to remind myself how far I've come. 👑😊
+
+- 12/04/2020: Decided to incorporate the concepts of '100 Days of Code' challenge into this repo.
 
 <!-- ---
 
-**Stand up | 09/04**
+**Day 27 Stand up | 13/04**
 
 Yesterday
+
+- Weekly Reflection & Goals for Next Week :heavy_check_mark:
+- Jest
 
 Blockers
 
@@ -20,7 +39,44 @@ Today -->
 
 ---
 
-**Stand up | 10/04**
+**Day 26 Stand up | 12/04**
+
+Yesterday
+
+- 3 meetup posts on Twitter :heavy_check_mark:
+- Side project (covid-19): form component :heavy_check_mark:
+- Jest: unit testing a React component (static form) :heavy_check_mark:
+
+Blockers
+
+- Had issues in using React Hooks to grab dynamic data from a public API & transfer the data into a dropdown menu. Need to re-consider my design and code implementation.
+
+Today
+
+- Weekly Reflection & Goals for Next Week
+- Jest
+
+---
+
+**Day 25 Stand up | 11/04**
+
+Yesterday
+
+- Side project (covid-19): form component (used React hooks & a customised React hook :raised_hands:)
+- Learned Angular (intro to Angular, intro to components) :heavy_check_mark:
+- 1500-1530 Angular Sydney Meetup 'What's new in Angular 9' :heavy_check_mark:
+- Learned Jest (test configurations) :heavy_check_mark:
+- Applied to 1 job :heavy_check_mark:
+- Walked/ran 3kms :running:
+
+Today
+
+- Side project (covid-19): form component
+- Jest
+
+---
+
+**Day 24 Stand up | 10/04**
 
 Yesterday
 
@@ -40,7 +96,7 @@ Today
 
 ---
 
-**Stand up | 09/04**
+**Day 23 Stand up | 09/04**
 
 Yesterday
 
@@ -64,7 +120,7 @@ Today
 
 ---
 
-**Stand up | 08/04**
+**Day 22 Stand up | 08/04**
 
 Yesterday
 
@@ -82,7 +138,7 @@ Today
 
 ---
 
-**Stand up | 07/04**
+**Day 21 Stand up | 07/04**
 
 Yesterday
 
@@ -103,12 +159,12 @@ Today
 
 ---
 
-**Stand up | 06/04**
+**Day 20 Stand up | 06/04**
 
 Weekend
 
 - Applied to 4 job :heavy_check_mark:
-- Continued building tic-tac-toe game: heavy_check_mark:
+- Continued building tic-tac-toe game :heavy_check_mark:
 - Walked/ran 4kms :running:
 
 Blockers
@@ -123,7 +179,7 @@ Today
 
 ---
 
-**Stand up | 03/04**
+**Day 17 Stand up | 03/04**
 
 Yesterday
 
@@ -139,7 +195,7 @@ Today
 
 ---
 
-**Stand up | 02/04**
+**Day 16 Stand up | 02/04**
 
 Yesterday
 
@@ -156,7 +212,7 @@ Today
 
 ---
 
-**Stand up | 01/04**
+**Day 15 Stand up | 01/04**
 
 Yesterday
 
@@ -175,7 +231,7 @@ Additional
 
 ---
 
-**Stand up | 31/03**
+**Day 14 Stand up | 31/03**
 
 Yesterday
 
@@ -194,7 +250,7 @@ Today
 
 ---
 
-**Stand up | 30/03**
+**Day 13 Stand up | 30/03**
 
 Weekend
 
@@ -210,7 +266,7 @@ Today
 
 ---
 
-**Stand up | 28/03**
+**Day 11 Stand up | 28/03**
 
 Yesterday
 
@@ -230,7 +286,7 @@ Today
 
 ---
 
-**Stand up | 27/03**
+**Day 10 Stand up | 27/03**
 
 Yesterday
 
@@ -253,7 +309,7 @@ Today
 
 ---
 
-**Stand up | 26/03**
+**Day 9 Stand up | 26/03**
 
 Yesterday
 
@@ -271,7 +327,7 @@ Today
 
 ---
 
-**Stand up | 25/03**
+**Day 8 Stand up | 25/03**
 
 Yesterday
 
@@ -288,6 +344,14 @@ Today
 - Continuing React refresher course
 - Updating resume & apply to 2 jobs
 - Brainstorming side project ideas
+
+---
+
+**Day 1 | 18/03**
+
+- The stand-up initiative was officially started later on 25/03/2020, but I've been coding since 18/03. Here I attached a screenshot from my time tracker as a proof of continuous coding😊
+
+![time-tracker-18Mar-11Apr](./docs/time-tracker-18Mar-11Apr.JPG)
 
 ---
 
