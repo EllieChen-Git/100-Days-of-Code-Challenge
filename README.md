@@ -10,6 +10,79 @@
 
 ---
 
+**Day 38 Stand up | 24/04**
+
+Yesterday
+
+- Side projects (COVID-19): revisited development plan :heavy_check_mark:
+- Angular course: interfaces, custom pipes, getter & setter :heavy_check_mark:
+- Interview prep :heavy_check_mark:
+- Phone interview: Was quite interesting to have an interview at 10:30 pm (It's an international company and the HR is based in the USA, so it's 8:30 am at her end). :heavy_check_mark:
+
+Today
+
+- Angular course
+- Side projects (COVID-19): graph
+- Job applications
+- Hacker rank: Received a coding challenge at Hacker Rank, but I've never used it before. Need to get familiar with the interface.
+
+---
+
+**Day 37 Stand up | 23/04**
+
+Yesterday
+
+- Job applications \* 3 :heavy_check_mark:
+- Side projects (COVID-19): table & social components :heavy_check_mark:
+- Angular course: property binding, event binding, two-way data binding, pipes :heavy_check_mark:
+- BAHR: exercises 1.5 :heavy_check_mark:
+- 1745 - 1840 Meetup - Female Influencers In Tech (https://www.meetup.com/Female-Influencers-in-Tech/events/268849861/) :heavy_check_mark:
+
+Today
+
+- Angular course
+- Side projects (COVID-19)
+- Interview prep
+- Phone interview
+
+---
+
+**Day 36 Stand up | 22/04**
+
+Yesterday
+
+- Job applications \* 8 :heavy_check_mark:
+- Side projects (COVID-19): refactored table component as API endpoint deprecated :heavy_check_mark:
+- Running 3kms :running:
+
+Blockers
+
+- Spent too much time on social media & watching YouTube lol
+
+Today
+
+- Angular course
+- Side projects (COVID-19): continue refactoring table component
+- (if have time) BAHR: exercises 1.5-1.6
+
+---
+
+**Day 35 Stand up | 21/04**
+
+Yesterday
+
+- Updated portfolio site with updated CV :heavy_check_mark:
+- Redux course :heavy_check_mark:
+- Conquering responsive layouts 5/6/7 :heavy_check_mark:
+
+Today
+
+- Job applications
+- Redux course
+- Side projects (COVID-19): social links
+
+---
+
 **Day 34 Stand up | 20/04**
 
 Yesterday
