@@ -1,12 +1,61 @@
-# Daily Stand-ups
+# 100-Days-of-Code-Challenge
 
 ### Why I Started This Project
 
-- 25/03/2020: People in my cohort decided to create a stand-up channel on Slack, so we can share our achievements, blockers and goals with each other and keep us motived 💪 (Credit to Harry :star:).
+- 25/03/2020: People in my Coder Academy cohort decided to create a stand-up channel on Slack, so we can share our achievements, blockers and goals with each other and keep us motived 💪 (Special credit to Harry :star:).
 
 - 08/04/2020: I decided to also keep a copy on my GitHub to remind myself how far I've come. 👑😊
 
-- 12/04/2020: Decided to incorporate the concepts of '100 Days of Code' challenge into this repo.
+- 12/04/2020: Decided to incorporate the concepts of '100 Days of Code' challenge into this repo (I record entries every day and push them to GitHub weekly).
+
+---
+
+**Day 41 Stand up | 27/04**
+
+Yesterday
+
+- Angular course: services & dependency injection :heavy_check_mark:
+- Interview prep: Hacker Rank :heavy_check_mark:
+- Interview (Company C): coding challenge on Hacker Rank :heavy_check_mark:
+- Weekly Reflection & Goals for Next Week :heavy_check_mark:
+
+Today
+
+- Angular course
+
+---
+
+**Day 40 Stand up | 26/04**
+
+Yesterday
+
+- Job applications\*2 :heavy_check_mark:
+- Angular course: services & dependency injection :heavy_check_mark:
+- Side projects (COVID-19): update form (pagination) graph :heavy_check_mark:
+- Interview prep: Hacker Rank :heavy_check_mark:
+
+Today
+
+- Angular course
+- Interview prep: Hacker Rank
+- Interview (Company C): coding challenge on Hacker Rank
+
+---
+
+**Day 39 Stand up | 25/04**
+
+Yesterday
+
+- Angular course: nested components, @Input() & @Output() decorators :heavy_check_mark:
+- Side projects (COVID-19): graph :heavy_check_mark:
+- Job applications\*4 :heavy_check_mark:
+- Interview prep: Hacker Rank :heavy_check_mark:
+
+Today
+
+- Angular course
+- Side projects (COVID-19): update form, add error handling
+- Hacker Rank
 
 ---
 
@@ -17,14 +66,14 @@ Yesterday
 - Side projects (COVID-19): revisited development plan :heavy_check_mark:
 - Angular course: interfaces, custom pipes, getter & setter :heavy_check_mark:
 - Interview prep :heavy_check_mark:
-- Phone interview: Was quite interesting to have an interview at 10:30 pm (It's an international company and the HR is based in the USA, so it's 8:30 am at her end). :heavy_check_mark:
+- Phone interview (Company D):heavy_check_mark:
 
 Today
 
 - Angular course
 - Side projects (COVID-19): graph
 - Job applications
-- Hacker rank: Received a coding challenge at Hacker Rank, but I've never used it before. Need to get familiar with the interface.
+- Interview prep - Hacker Rank: Received a coding challenge at Hacker Rank, but I've never used it before. Need to get familiar with the interface.
 
 ---
 
@@ -43,7 +92,7 @@ Today
 - Angular course
 - Side projects (COVID-19)
 - Interview prep
-- Phone interview
+- Phone interview (Company D)
 
 ---
 
@@ -57,7 +106,7 @@ Yesterday
 
 Blockers
 
-- Spent too much time on social media & watching YouTube lol
+- Spent too much time on social media & watching YouTube.
 
 Today
 
@@ -391,7 +440,7 @@ Today
 
 Yesterday
 
-- AJob application\*5 :heavy_check_mark:
+- Job application\*5 :heavy_check_mark:
 - React docs: main concepts 1-8 :small_red_triangle:
 - Passed LinkedIn JSON assessment :heavy_check_mark:
 - Walked/ran 4.5kms :running:
@@ -490,7 +539,7 @@ Yesterday
 
 Blockers
 
-- Overestimated time, didn’t have time to work on side projectss :cry:
+- Overestimated time, didn’t have time to work on side projects :cry:
 
 Today
 
