@@ -10,6 +10,74 @@
 
 ---
 
+**Day 45 Stand up | 01/05**
+
+Yesterday
+
+- Angular Course: Angular CLI :heavy_check_mark: (Completed Angular: Getting Started by Deborah Kurata on Pluralsight)
+- Side projects (COVID-19): code refactoring, docs, deployment :heavy_check_mark: (Still missing styling & responsiveness at the moment. Will come back the following week to finish it up.)
+- Conquering responsive layouts: day 11 :heavy_check_mark:
+
+Today
+
+- Conquering responsive layouts
+- Udemy data structure & algorithm course
+- Job applications
+- Interview prep (Company M)
+- (if have time) Bored at Home React project
+
+---
+
+**Day 44 Stand up | 30/04**
+
+Yesterday
+
+- Angular course: Navigation & Routing Basics II :heavy_check_mark:
+- Conquering responsive layouts: day 09 & 10 :heavy_check_mark:
+- Interview: online culture assessment (Company W) :heavy_check_mark:
+- Job applications\*3 :heavy_check_mark:
+- Updated CV :heavy_check_mark:
+- Running 3kms :running:
+
+Today
+
+- Angular course
+- Side projects (COVID-19): styling, clock (refactoring)
+
+---
+
+**Day 43 Stand up | 29/04**
+
+Yesterday
+
+- Angular course: Navigation & Routing Basics :heavy_check_mark:
+- Side projects (COVID-19): error-handling, theme-context, table & app.js (refactoring) :heavy_check_mark:
+- Job applications\*1 :heavy_check_mark:
+- Running 3kms :running:
+
+Today
+
+- Angular course
+- Conquering responsive layouts
+- Interview: online culture assessment (Company W)
+
+---
+
+**Day 42 Stand up | 28/04**
+
+Yesterday
+
+- Angular course: modules :heavy_check_mark:
+
+Today
+
+- Angular course
+- Side projects (COVID-19): error-handling, theme-context, table (refactor)
+- Job applications
+- Running
+
+---
+
 **Day 41 Stand up | 27/04**
 
 Yesterday
