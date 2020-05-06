@@ -10,6 +10,89 @@
 
 ---
 
+**Day 50 Stand up | 06/05**
+
+Yesterday
+
+- Conquering responsive layouts: day 15-18 :heavy_check_mark:
+- Interview prep (Company W) :heavy_check_mark:
+- Data structure & algorithm course: Colt Steele (BigO notation) :heavy_check_mark:
+
+Today
+
+- Conquering responsive layouts
+- Data structure & algorithm course: Colt Steele
+- Interview prep (Company W)
+
+---
+
+**Day 49 Stand up | 05/05**
+
+Yesterday
+
+- Interview prep (Company M) :heavy_check_mark:
+- Online Interview (Company M) :heavy_check_mark:
+- Job applications\*3 :heavy_check_mark:
+
+Blockers
+
+- After spending 2hrs preparing for the interview and another 3hrs for attending the interview (video recording & written response), I was exhausted... didn't do much afterwards lol
+
+Today
+
+- Conquering responsive layouts
+- Data structure & algorithm course: Stephen Grider, Colt Steele
+
+---
+
+**Day 48 Stand up | 04/05**
+
+Yesterday
+
+- Conquering responsive layouts: day 14 :heavy_check_mark:
+- Weekly Reflection & Goals for Next Week :heavy_check_mark:
+
+Today
+
+- Interview prep & interview (Company M)
+- Conquering responsive layouts
+- Data structure & algorithm course: Stephen Grider, Colt Steele
+
+---
+
+**Day 47 Stand up | 03/05**
+
+Yesterday
+
+- Conquering responsive layouts: day 13 :heavy_check_mark:
+- Watched [Women of React Conference 2020 recording](https://www.youtube.com/watch?v=K8MF3aDg-bM&feature=youtu.be&t=13846). Also read Aishwarya Borkar's [writeup with links to timestamps](https://dev.to/ashc0des/women-of-react-2020-recap-51jf).
+
+Today
+
+- Conquering responsive layouts: day 14
+- Weekly Reflection & Goals for Next Week
+- Interview prep (Company M)
+- Data structure & algorithm course: Stephen Grider, Colt Steele
+
+---
+
+**Day 46 Stand up | 02/05**
+
+Yesterday
+
+- Conquering responsive layouts: day 12 :heavy_check_mark:
+- Data structure & algorithm course: Stephen Grider (section 1-4), Colt Steele :heavy_check_mark:
+- Job applications\*3 :heavy_check_mark:
+- Interview prep (Company M) :heavy_check_mark:
+
+Today
+
+- Conquering responsive layouts
+- Data structure & algorithm course: Colt Steele
+- Interview prep (Company M)
+
+---
+
 **Day 45 Stand up | 01/05**
 
 Yesterday
