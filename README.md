@@ -8,6 +8,94 @@
 
 - 12/04/2020: Decided to incorporate the concepts of '100 Days of Code' challenge into this repo (I record entries every day and push them to GitHub weekly).
 
+
+---
+
+**Day 55 Stand up | 11/05**
+
+Yesterday
+- Interview - Online test (Company W) :heavy_check_mark:
+- CSS - Block, inline & inline-block elements :heavy_check_mark:
+- Weekly Reflection & Goals for Next Week :heavy_check_mark:
+
+
+Today
+
+- Side projects (COVID-19): styling and responsiveness
+- Data structure & algorithm course: Stephen Grider (section 22-24)
+- Running
+
+
+---
+
+**Day 54 Stand up | 10/05**
+
+Yesterday
+
+- Interview prep - review data structure & algorithm (Company W) :heavy_check_mark:
+- Conquering responsive layouts: day 21 - completed!!! :heavy_check_mark:
+- Running 3kms :running:
+
+
+Today
+
+- Interview - Online test (Company W)
+- CSS - Block, inline & inline-block elements
+- Weekly Reflection & Goals for Next Week 
+
+---
+
+**Day 53 Stand up | 09/05**
+
+Yesterday
+
+- Data structure & algorithm course: Stephen Grider (section 21) :heavy_check_mark:
+- Reading: De-Coding The Interview Process (The Interview Process) :heavy_check_mark:
+- Job applications\*1 :heavy_check_mark:
+
+
+Today
+
+- Interview prep - review data structure & algorithm (Company W)
+- Conquering responsive layouts: day 21
+- Data structure & algorithm course: Stephen Grider (section 22-24)
+- Running
+
+
+---
+
+**Day 52 Stand up | 08/05**
+
+Yesterday
+
+
+- Data structure & algorithm course: Stephen Grider (section 19-20) & Colt Steele (section 4) :heavy_check_mark:
+- Interview prep (Company W): 2 coding problem :heavy_check_mark:
+- Running 3kms :running:
+
+
+Today
+
+- Data structure & algorithm course: Stephen Grider (section 21)
+
+---
+
+**Day 51 Stand up | 07/05**
+
+Yesterday
+
+- Conquering responsive layouts: day 19-20 :heavy_check_mark:
+- Data structure & algorithm course: Colt Steele (section 3), Stephen Grider (section 5, 17-18) :heavy_check_mark:
+- Interview prep (Company W): 1 coding problem :heavy_check_mark:
+- Running 5kms :running:
+
+
+Today
+
+- Data structure & algorithm course: Stephen Grider (section 19-20) & Colt Steele (section 4)
+- Interview prep (Company W): 2 coding problems 
+
+
 ---
 
 **Day 50 Stand up | 06/05**
