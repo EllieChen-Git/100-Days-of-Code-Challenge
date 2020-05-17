@@ -8,23 +8,119 @@
 
 - 12/04/2020: Decided to incorporate the concepts of '100 Days of Code' challenge into this repo (I record entries every day and push them to GitHub weekly).
 
+---
+
+**Day 61 Stand up | 17/05**
+
+Yesterday
+
+- 0900-1800 ngGrils Angular workshop: I won the 2nd place of three Angular quizzes 👑
+
+Today
+
+- Data structure & algorithm course: Colt Steele (section 6)
+- Weekly Reflection & Goals for Next Week
+
+---
+
+**Day 60 Stand up | 16/05**
+
+Yesterday
+
+- CV update & twitter post: Spent another 3hrs on refining my CV :heavy_check_mark:
+- Data structure & algorithm course: Colt Steele (section 6) :heavy_check_mark:
+- Side project: RPSLS-game (planning & setup) :heavy_check_mark:
+
+Today
+
+- 0900-1800 ngGrils Angular workshop: https://ng-girls.org/australia-2020/
+
+---
+
+**Day 59 Stand up | 15/05**
+
+Yesterday
+
+- Data structure & algorithm course: Colt Steele (section 5) :heavy_check_mark:
+- CSS: srcset & sizes attributes on images :heavy_check_mark:
+- 1600-1700 MYOB Info session :heavy_check_mark:
+- 1830-1900 meetup - Coder Academy: Coder Callback Virtual :heavy_check_mark:
+  (Around 50 current students, recent graduates & alumni from all three campuses attended the virtual meetup yesterday. I shared the info regarding Women of React Virtual conference and 2 tech podcasts there.)
+- Job applications\*5 :heavy_check_mark:
+
+Today
+
+- CV update & twitter post
+- Data structure & algorithm course: Colt Steele (section 6)
+- Side project: RPSLS-game (planning & setup)
+
+---
+
+**Day 58 Stand up | 14/05**
+
+Yesterday
+
+- Girls in Tech Virtual Conference (2 talks) :heavy_check_mark:
+- Data structure & algorithm course: Colt Steele (section 5) & Stephen Grider (section 29) :heavy_check_mark:
+- Running: 4kms :running:
+- Explored Frontend Mentor (picked 2 projects):heavy_check_mark:
+
+Today
+
+- Data structure & algorithm course: Colt Steele (section 5)
+- CSS
+- 1600-1700 MYOB Info session
+- 1830-2030 Coder Academy meetup - Coder Callback Virtual
+
+---
+
+**Day 57 Stand up | 13/05**
+
+Yesterday
+
+- Side projects (COVID-19): Improved styling and responsiveness (really needed a designer to help with the design lol) :heavy_check_mark:
+- CSS: BEM CSS naming style :heavy_check_mark:
+- Updated CV: added COVID-19 project :heavy_check_mark:
+- 1700-1720 pm Meetup - Muses Career
+
+Today
+
+- Girls in Tech Virtual Conference: https://gitconaustralia.girlsintech.org/agenda/
+- Data structure & algorithm course: Colt Steele (section 5)
+- Exploring Frontend Mentor
+
+---
+
+**Day 56 Stand up | 12/05**
+
+Yesterday
+
+- Data structure & algorithm course: Stephen Grider (section 22-24) :heavy_check_mark:
+- Side projects (COVID-19): styling and responsiveness ❌
+- Running: 3kms :running:
+- HTML & CSS Crash Course by Kevin Powell :heavy_check_mark:
+
+Today
+
+- Side projects (COVID-19): styling and responsiveness
+- Job applications
+- 1700-1900 Meetup - Muses Career: https://us02web.zoom.us/j/89267522621?pwd=RFgwd0VNN3BieVRHSjhpbFJUbWJqdz09
 
 ---
 
 **Day 55 Stand up | 11/05**
 
 Yesterday
+
 - Interview - Online test (Company W) :heavy_check_mark:
 - CSS - Block, inline & inline-block elements :heavy_check_mark:
 - Weekly Reflection & Goals for Next Week :heavy_check_mark:
-
 
 Today
 
 - Side projects (COVID-19): styling and responsiveness
 - Data structure & algorithm course: Stephen Grider (section 22-24)
 - Running
-
 
 ---
 
@@ -36,12 +132,11 @@ Yesterday
 - Conquering responsive layouts: day 21 - completed!!! :heavy_check_mark:
 - Running 3kms :running:
 
-
 Today
 
 - Interview - Online test (Company W)
 - CSS - Block, inline & inline-block elements
-- Weekly Reflection & Goals for Next Week 
+- Weekly Reflection & Goals for Next Week
 
 ---
 
@@ -53,7 +148,6 @@ Yesterday
 - Reading: De-Coding The Interview Process (The Interview Process) :heavy_check_mark:
 - Job applications\*1 :heavy_check_mark:
 
-
 Today
 
 - Interview prep - review data structure & algorithm (Company W)
@@ -61,18 +155,15 @@ Today
 - Data structure & algorithm course: Stephen Grider (section 22-24)
 - Running
 
-
 ---
 
 **Day 52 Stand up | 08/05**
 
 Yesterday
 
-
 - Data structure & algorithm course: Stephen Grider (section 19-20) & Colt Steele (section 4) :heavy_check_mark:
 - Interview prep (Company W): 2 coding problem :heavy_check_mark:
 - Running 3kms :running:
-
 
 Today
 
@@ -89,12 +180,10 @@ Yesterday
 - Interview prep (Company W): 1 coding problem :heavy_check_mark:
 - Running 5kms :running:
 
-
 Today
 
 - Data structure & algorithm course: Stephen Grider (section 19-20) & Colt Steele (section 4)
-- Interview prep (Company W): 2 coding problems 
-
+- Interview prep (Company W): 2 coding problems
 
 ---
 
