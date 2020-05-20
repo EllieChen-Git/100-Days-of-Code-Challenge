@@ -10,6 +10,73 @@
 
 ---
 
+**Day 65 Stand up | 21/05**
+
+Yesterday
+
+- Data structure & algorithm course: Colt Steele (section 6) :heavy_check_mark:
+- 1400-1600 GraphQL for React Developer workshop :heavy_check_mark:
+- Job applications\*11 :heavy_check_mark:
+
+Today
+
+- 1000-1400 INCO Academy: Get Into Tech Program 2
+- Data structure & algorithm course: Stephen Grider (section 25)
+
+---
+
+**Day 64 Stand up | 20/05**
+
+Yesterday
+
+- INCO Academy: Studied WordPress & completed assignment 1 (see my project here: http://git157.dreamhosters.com/) :heavy_check_mark:
+
+  With WordPress, there’s no need to set up routers like React and no need to worry about responsiveness in CSS (it's responsive by default). You can build a simple website without coding a single line… No wonder it's such a powerful & popular too! Although I still prefer to build a website by actual coding 😆
+
+Blockers
+
+- So many things just jumped on my way. Didn't study algorithms for two days :sob:
+
+Today
+
+- Data structure & algorithm course: Colt Steele (section 6)
+- 1400-1600 GraphQL for React Developer workshop
+- Job applications
+
+---
+
+**Day 63 Stand up | 19/05**
+
+Yesterday
+
+- 1000-1400 INCO Academy: Get Into Tech Program 1 :heavy_check_mark:
+- Job applications\*3 :heavy_check_mark:
+- Email screening (Company TW) :heavy_check_mark:
+- Had a catch up with Nina ♥️
+
+Today
+
+- Data structure & algorithm course: Colt Steele (section 6)
+- INCO Academy: study WordPress & work on assignment 1
+
+---
+
+**Day 62 Stand up | 18/05**
+
+Yesterday
+
+- Data structure & algorithm course: Colt Steele (section 6) :heavy_check_mark:
+- Weekly Reflection & Goals for Next Week :heavy_check_mark:
+- Running: 4kms :running:
+
+Today
+
+- 1000-1400 INCO Academy: Get Into Tech Program 1
+- Data structure & algorithm course: Colt Steele (section 6)
+- Job applications
+
+---
+
 **Day 61 Stand up | 17/05**
 
 Yesterday
