@@ -8,6 +8,114 @@
 
 - 12/04/2020: Decided to incorporate the concepts of '100 Days of Code' challenge into this repo (I record entries every day and push them to GitHub weekly).
 
+<!-- - Weekly Reflection & Goals for Next Week :heavy_check_mark: -->
+
+---
+
+**Day 72 Stand up | 28/05**
+
+Yesterday
+
+- 1000-1330, 1630-2130 INCO Academy assignment 3 group meetings :heavy_check_mark:
+- Data structure & algorithm course: Colt Steele (Section 18: Data Structures Introduction & Section 19: Singly Linked Lists) :heavy_check_mark:
+- job applications\*5 :heavy_check_mark:
+
+Today
+
+- 1000-1400 INCO Academy Workshop 4 (I'm going to give a presentation of the group assignment today. Wish me luck!)
+- Data structure & algorithm course: Colt Steele (Section 19: Singly Linked Lists)
+
+---
+
+**Day 71 Stand up | 27/05**
+
+Yesterday
+
+- Data structure & algorithm course: Stephen Grider (section 15 & 16) :heavy_check_mark:
+- 1700-1745 INCO Academy assignment 3 group meeting  :heavy_check_mark:
+- Running: 4kms :running:
+
+Today
+
+- Data structure & algorithm course: Colt Steele (Section 18: Data Structures Introduction)
+- 1000 INCO Academy assignment 3 group meeting
+- job applications
+
+---
+
+**Day 70 Stand up | 26/05**
+
+Yesterday
+
+- 1000-1400 INCO Academy Workshop 3 :heavy_check_mark:
+- Data structure & algorithm course: Colt Steele (section 9) :heavy_check_mark:
+
+Today
+
+- Data structure & algorithm course: Stephen Grider (section 15 & 16)
+- TBD: might work on side projects or something else
+
+---
+
+**Day 69 Stand up | 25/05**
+
+Yesterday
+
+- Data structure & algorithm course: Colt Steele (section 7 & 8) :heavy_check_mark:
+- Weekly Reflection & Goals for Next Week :heavy_check_mark:
+- 1830-1900 Meetup - Career-Building Learning Jam by Catalin Pit :heavy_check_mark:
+
+Today
+
+- 1000-1400 INCO Academy Workshop 3
+- Data structure & algorithm course: Colt Steele (section 9)
+
+---
+
+**Day 68 Stand up | 24/05**
+
+Yesterday
+
+- Change CV background & job apps\*8 :heavy_check_mark:
+
+Today
+
+- Data structure & algorithm course: Colt Steele (section 7)
+- Weekly Reflection & Goals for Next Week
+- 1830 Meetup Career-Building Learning Jam by Catalin Pit
+
+---
+
+**Day 67 Stand up | 23/05**
+
+Yesterday
+
+- INCO Academy: assignment 2 :heavy_check_mark:
+- Data structure & algorithm course: Stephen Grider (section 27 & 28) :heavy_check_mark:
+- Course: Interviewing for Front-End Engineers - Jem Young :heavy_check_mark:
+
+Today
+
+- Data structure & algorithm course: Colt Steele (section 7)
+- Change CV background & job apps
+
+---
+
+**Day 66 Stand up | 22/05**
+
+Yesterday
+
+- 1000-1400 INCO Academy: Get Into Tech Program 2 :heavy_check_mark:
+- Data structure & algorithm course: Stephen Grider (section 25 & 26) :heavy_check_mark:
+- Course: Interviewing for Front-End Engineers - Jem Young :heavy_check_mark:
+- Job applications\*1 (internship) :heavy_check_mark:
+
+Today
+
+- INCO Academy: assignment 2
+- Data structure & algorithm course: Stephen Grider (section 27 & 28)
+- Course: Interviewing for Front-End Engineers - Jem Young
+
 ---
 
 **Day 65 Stand up | 21/05**
