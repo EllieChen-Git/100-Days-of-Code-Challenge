@@ -10,6 +10,127 @@
 
 <!-- - Weekly Reflection & Goals for Next Week :heavy_check_mark: -->
 
+
+
+
+---
+
+**Day 79 Stand up | 04/06**
+
+Yesterday
+
+- Data structure & algorithm course: Colt Steele (Section 22: Binary Search Trees) :heavy_check_mark:
+- BAHR Workshop 4 :heavy_check_mark:
+- Updated cover letter, 2 job applications, 2 internship applications :heavy_check_mark:
+- Walking: 3kms :running:
+
+Today
+
+- 1000-1400 INCO Academy Workshop 6 
+- BAHR Workshop 4
+- Interview prep (Company A)
+
+---
+
+**Day 78 Stand up | 03/06**
+
+Yesterday
+
+- Data structure & algorithm course: Colt Steele (Section 21: Stacks & Queues) :heavy_check_mark:
+- INCO Academy Assignment 5 (SEO research & implantation) :heavy_check_mark:
+- Job applications*4 :heavy_check_mark:
+
+Today
+
+- Data structure & algorithm course: Colt Steele (Section 22: Binary Search Trees)
+- BAHR Workshop 4
+
+---
+
+**Day 77 Stand up | 02/06**
+
+Yesterday
+
+- 1000-1400 INCO Academy Workshop 5 :heavy_check_mark:
+- BAHR: Assignment 3.2 :heavy_check_mark:
+- Updated CV, set up custom domain for my portfolio site :heavy_check_mark:
+
+Today
+
+- INCO Academy Assignment 5 
+- Data structure & algorithm course: Colt Steele (Section 21: Stacks & Queues)
+- Job applications
+
+---
+
+**Day 76 Stand up | 01/06**
+
+Yesterday
+
+- Weekly Reflection & Goals for Next Week :heavy_check_mark:
+- BAHR: Assignment 3.1 :heavy_check_mark:
+- Running: 3kms :running:
+
+
+Today
+
+- 1000-1400 INCO Academy Workshop 5
+- BAHR: Assignment 3.2
+- 1800-1900 Let's learn Vue together
+
+---
+
+**Day 75 Stand up | 31/05**
+
+Yesterday
+
+- Data structure & algorithm course: Colt Steele (Section 20: Doubly Linked Lists) :heavy_check_mark:
+- BAHR: Workshop 2 & 3 :heavy_check_mark:
+- Running: 3kms :running:
+
+
+Today
+
+- BAHR: Assignment 3.1/3.2/3.3
+- Weekly Reflection & Goals for Next Week 
+
+---
+
+**Day 74 Stand up | 30/05**
+
+Yesterday
+
+- Data structure & algorithm course: Colt Steele (Section 20: Doubly Linked Lists) :heavy_check_mark:
+- job applications*4 :heavy_check_mark:
+- Just JavaScript 09 :heavy_check_mark:
+- BAHR: Workshop 1 :heavy_check_mark:
+
+
+Today
+
+- Data structure & algorithm course: Colt Steele (Section 20: Doubly Linked Lists) 
+- BAHR: Workshop 2
+- Running
+
+---
+
+**Day 73 Stand up | 29/05**
+
+Yesterday
+
+- 1000-1400 INCO Academy Workshop 4 :heavy_check_mark:
+- INCO Academy Assignment 4 (a coding assignment... I just smashed it lol) :heavy_check_mark:
+- Data structure & algorithm course: Colt Steele (Section 19: Singly Linked Lists) :heavy_check_mark:
+- Running: 5kms :running:
+
+Today
+
+- Data structure & algorithm course: Colt Steele (Section 20: Doubly Linked Lists)
+- job applications
+- Just JavaScript 09
+- BAHR
+
+
 ---
 
 **Day 72 Stand up | 28/05**
