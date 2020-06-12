@@ -15,6 +15,139 @@
 
 ---
 
+**Day 87 Stand up | 12/06**
+
+Yesterday
+
+- 1000-1400 INCO Academy Workshop 8 :heavy_check_mark:
+- Interview prep (Company AGS) :heavy_check_mark:
+- 1500 Interview (Company AGS): The company was nice enough to accommodate my time, so we had a video interview with the HR & IT lead, which was great. :heavy_check_mark:
+
+
+Today
+
+- TBD: Will try to learn Vue or build a game in React or something else lol
+- 1800 Catch up with coders
+
+---
+
+**Day 86 Stand up | 11/06**
+
+Yesterday
+
+- Data structure & algorithm course: Colt Steele (Section 24: Binary Heaps) :heavy_check_mark:
+- Interview prep & video interview (Company V) :heavy_check_mark:
+  (I recorded 9 videos for this interview... now I feel like a YouTuber lol)
+
+
+Today
+
+- 1000-1400 INCO Academy Workshop 8
+- Interview prep (Company AGS)
+- 1500 Interview (Company AGS): I didn't realise that the company wanted to have an on-site interview (I thought it was just a phone screening), so this one might be cancelled or rescheduled. I wrote an email to the manager to apologise for the misunderstanding, and asked if he would like to have an initial phone interview at 3 pm today. And we can have another on-site one if everything goes well today. Still awaiting reply.
+
+---
+
+**Day 85 Stand up | 10/06**
+
+Yesterday
+
+- 1000-1400 INCO Academy Workshop 7 :heavy_check_mark:
+- 1500 Interview (Company A) :heavy_check_mark:
+- Job applications*4 :heavy_check_mark:
+- Data structure & algorithm course: Colt Steele (Section 24: Binary Heaps) :heavy_check_mark:
+- Updated CV (based on feedback from my INCO cohort) :heavy_check_mark:
+
+Today
+
+- Interview prep & video interview (Company V)
+- Data structure & algorithm course: Colt Steele (Section 24: Binary Heaps)
+
+---
+
+**Day 84 Stand up | 09/06**
+
+Yesterday
+
+- Interview prep (Company A) :heavy_check_mark:
+
+Today
+
+- 1000-1400 INCO Academy Workshop 7
+- 1500 Interview (Company A)
+- Data structure & algorithm course: Colt Steele (Section 24: Binary Heaps)
+- Job applications
+
+
+---
+
+**Day 83 Stand up | 08/06**
+
+Yesterday
+
+- Company M - Online cognitive assessment :heavy_check_mark:
+- Data structure & algorithm course: Colt Steele (Section 24: Binary Heaps) :heavy_check_mark:
+- Interview prep (Company A) :heavy_check_mark:
+- Weekly Reflection & Goals for Next Week :heavy_check_mark:
+
+Today
+
+- Interview prep (Company A)
+
+---
+
+**Day 82 Stand up | 07/06**
+
+Yesterday
+
+- Data structure & algorithm course: Colt Steele (Section 10: Searching Algorithms) :heavy_check_mark:
+- Job applications* 8 :heavy_check_mark:
+- Interview prep (Company A) :heavy_check_mark:
+- Running: 3kms :running:
+
+Today
+
+- Company M - Online cognitive assessment
+- Data structure & algorithm course: Colt Steele (Section 24: Binary Heaps)
+- Interview prep (Company A)
+- Weekly Reflection & Goals for Next Week
+
+---
+
+**Day 81 Stand up | 06/06**
+
+Yesterday
+
+- Interview prep (Company P) & phone screening at 3pm :heavy_check_mark:
+- INCO Academy Assignment 6 :heavy_check_mark:
+- Data structure & algorithm course: Colt Steele (Section 23: Tree Traversal) :heavy_check_mark:
+
+Today
+
+- Data structure & algorithm course: Colt Steele (Section 10: Searching Algorithms) 
+- Interview prep (Company A)
+
+---
+
+**Day 80 Stand up | 05/06**
+
+Yesterday
+
+- 1000-1400 INCO Academy Workshop 6 :heavy_check_mark:
+- Interview prep (Company A) :heavy_check_mark:
+- Running: 4kms :running:
+
+
+Today
+
+- Interview prep (Company P) & phone screening scheduled at 3 pm 
+- INCO Academy Assignment 6
+- Data structure & algorithm course: Colt Steele (Section 23: Tree Traversal) 
+- Interview prep (Company A)
+
+
+---
+
 **Day 79 Stand up | 04/06**
 
 Yesterday
