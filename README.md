@@ -10,8 +10,145 @@
 
 <!-- - Weekly Reflection & Goals for Next Week :heavy_check_mark: -->
 
+<!--
+
+---
+
+**Day 97 Stand up | 22/06**
+
+Yesterday
+
+- Weekly Reflection & Goals for Next Week :heavy_check_mark:
+
+Today
 
 
+ -->
+
+---
+
+**Day 96 Stand up | 21/06**
+
+Yesterday
+
+- 'Interviewing for Front-End Engineers' course - course completed :heavy_check_mark:
+
+Today
+
+- Weekly Reflection & Goals for Next Week
+- Job-seeking plan re-planned after 3 months
+- Getting Started with JavaScript, v2 - Kyle Simpson
+
+---
+
+**Day 95 Stand up | 20/06**
+
+Yesterday
+
+- 'Interviewing for Front-End Engineers' course :heavy_check_mark:
+
+Today
+
+- 'Interviewing for Front-End Engineers' course
+
+---
+
+**Day 94 Stand up | 19/06**
+
+Yesterday
+
+- 'Interviewing for Front-End Engineers' course :heavy_check_mark:
+- Job applications \* 5 (also updated cover letter layout) :heavy_check_mark:
+- 1800 GraphQL meetup :heavy_check_mark:
+
+Today
+
+- 'Interviewing for Front-End Engineers' course
+
+---
+
+**Day 93 Stand up | 18/06**
+
+Yesterday
+
+- Data structure & algorithm course: Stephen Grider (sections 11-14). Course completed. :heavy_check_mark:
+- Catch up with Nina ♥️
+- Helped reviewed a person's CV and cover letter :heavy_check_mark:
+- Job applications \* 3 :heavy_check_mark:
+
+Today
+
+- BAHR - assignment 4
+- Job applications
+- 1800 GraphQL meetup
+
+---
+
+**Day 92 Stand up | 17/06**
+
+Yesterday
+
+- Company V: take-home assignment :heavy_check_mark:
+
+Today
+
+- Data structure & algorithm course: Stephen Grider
+- Job applications
+
+---
+
+**Day 91 Stand up | 16/06**
+
+Yesterday
+
+- Data structure & algorithm course: Stephen Grider (sections 8 & 10) :heavy_check_mark:
+- Lunch catch-up with my mentor :heavy_check_mark:
+- Job applications\*3 :heavy_check_mark:
+
+Today
+
+- Company V: take-home assignment
+
+---
+
+**Day 90 Stand up | 15/06**
+
+Yesterday
+
+- Weekly Reflection & Goals for Next Week :heavy_check_mark:
+- Data structure & algorithm course: Stephen Grider (sections 29-30,6-7) :heavy_check_mark:
+
+Today
+
+- Data structure & algorithm course: Stephen Grider (sections 8)
+
+---
+
+**Day 89 Stand up | 14/06**
+
+Yesterday
+
+- Data structure & algorithm course: Stephen Grider (sections 31-33) :heavy_check_mark:
+
+Today
+
+- Weekly Reflection & Goals for Next Week
+- Data structure & algorithm course: Stephen Grider (sections 29-30,6-7)
+
+---
+
+**Day 88 Stand up | 13/06**
+
+Yesterday
+
+- Vue Workshop :heavy_check_mark:
+- 1800 Catch up with coders ♥️
+- Reached out to two industry connections :heavy_check_mark:
+- Job application (INCO internship \* 1) :heavy_check_mark:
+
+Today
+
+- Data structure & algorithm course: Stephen Grider (sections 31-33)
 
 ---
 
@@ -22,7 +159,6 @@ Yesterday
 - 1000-1400 INCO Academy Workshop 8 :heavy_check_mark:
 - Interview prep (Company AGS) :heavy_check_mark:
 - 1500 Interview (Company AGS): The company was nice enough to accommodate my time, so we had a video interview with the HR & IT lead, which was great. :heavy_check_mark:
-
 
 Today
 
@@ -39,7 +175,6 @@ Yesterday
 - Interview prep & video interview (Company V) :heavy_check_mark:
   (I recorded 9 videos for this interview... now I feel like a YouTuber lol)
 
-
 Today
 
 - 1000-1400 INCO Academy Workshop 8
@@ -54,7 +189,7 @@ Yesterday
 
 - 1000-1400 INCO Academy Workshop 7 :heavy_check_mark:
 - 1500 Interview (Company A) :heavy_check_mark:
-- Job applications*4 :heavy_check_mark:
+- Job applications\*4 :heavy_check_mark:
 - Data structure & algorithm course: Colt Steele (Section 24: Binary Heaps) :heavy_check_mark:
 - Updated CV (based on feedback from my INCO cohort) :heavy_check_mark:
 
@@ -78,7 +213,6 @@ Today
 - Data structure & algorithm course: Colt Steele (Section 24: Binary Heaps)
 - Job applications
 
-
 ---
 
 **Day 83 Stand up | 08/06**
@@ -101,7 +235,7 @@ Today
 Yesterday
 
 - Data structure & algorithm course: Colt Steele (Section 10: Searching Algorithms) :heavy_check_mark:
-- Job applications* 8 :heavy_check_mark:
+- Job applications\* 8 :heavy_check_mark:
 - Interview prep (Company A) :heavy_check_mark:
 - Running: 3kms :running:
 
@@ -124,7 +258,7 @@ Yesterday
 
 Today
 
-- Data structure & algorithm course: Colt Steele (Section 10: Searching Algorithms) 
+- Data structure & algorithm course: Colt Steele (Section 10: Searching Algorithms)
 - Interview prep (Company A)
 
 ---
@@ -137,14 +271,12 @@ Yesterday
 - Interview prep (Company A) :heavy_check_mark:
 - Running: 4kms :running:
 
-
 Today
 
-- Interview prep (Company P) & phone screening scheduled at 3 pm 
+- Interview prep (Company P) & phone screening scheduled at 3 pm
 - INCO Academy Assignment 6
-- Data structure & algorithm course: Colt Steele (Section 23: Tree Traversal) 
+- Data structure & algorithm course: Colt Steele (Section 23: Tree Traversal)
 - Interview prep (Company A)
-
 
 ---
 
@@ -159,7 +291,7 @@ Yesterday
 
 Today
 
-- 1000-1400 INCO Academy Workshop 6 
+- 1000-1400 INCO Academy Workshop 6
 - BAHR Workshop 4
 - Interview prep (Company A)
 
@@ -171,7 +303,7 @@ Yesterday
 
 - Data structure & algorithm course: Colt Steele (Section 21: Stacks & Queues) :heavy_check_mark:
 - INCO Academy Assignment 5 (SEO research & implantation) :heavy_check_mark:
-- Job applications*4 :heavy_check_mark:
+- Job applications\*4 :heavy_check_mark:
 
 Today
 
@@ -190,7 +322,7 @@ Yesterday
 
 Today
 
-- INCO Academy Assignment 5 
+- INCO Academy Assignment 5
 - Data structure & algorithm course: Colt Steele (Section 21: Stacks & Queues)
 - Job applications
 
@@ -203,7 +335,6 @@ Yesterday
 - Weekly Reflection & Goals for Next Week :heavy_check_mark:
 - BAHR: Assignment 3.1 :heavy_check_mark:
 - Running: 3kms :running:
-
 
 Today
 
@@ -221,11 +352,10 @@ Yesterday
 - BAHR: Workshop 2 & 3 :heavy_check_mark:
 - Running: 3kms :running:
 
-
 Today
 
 - BAHR: Assignment 3.1/3.2/3.3
-- Weekly Reflection & Goals for Next Week 
+- Weekly Reflection & Goals for Next Week
 
 ---
 
@@ -234,14 +364,13 @@ Today
 Yesterday
 
 - Data structure & algorithm course: Colt Steele (Section 20: Doubly Linked Lists) :heavy_check_mark:
-- job applications*4 :heavy_check_mark:
+- job applications\*4 :heavy_check_mark:
 - Just JavaScript 09 :heavy_check_mark:
 - BAHR: Workshop 1 :heavy_check_mark:
 
-
 Today
 
-- Data structure & algorithm course: Colt Steele (Section 20: Doubly Linked Lists) 
+- Data structure & algorithm course: Colt Steele (Section 20: Doubly Linked Lists)
 - BAHR: Workshop 2
 - Running
 
@@ -262,7 +391,6 @@ Today
 - job applications
 - Just JavaScript 09
 - BAHR
-
 
 ---
 
