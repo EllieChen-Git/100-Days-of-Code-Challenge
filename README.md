@@ -1,16 +1,65 @@
 # 100-Days-of-Code-Challenge
 
-### Why I Started This Project
+---
+
+### Project Timeline
+
+- 18/03/2020: Started the '100 Days of Code' project.
 
 - 25/03/2020: People in my Coder Academy cohort decided to create a stand-up channel on Slack, so we can share our achievements, blockers and goals with each other and keep us motived 💪 (Special credit to Harry :star:).
 
-- 08/04/2020: I decided to also keep a copy on my GitHub to remind myself how far I've come. 👑😊
+- 08/04/2020: Decided to keep a copy of records on my GitHub to remind myself how far I have come in my coding journey. 👑😊
 
-- 12/04/2020: Decided to incorporate the concepts of '100 Days of Code' challenge into this repo (I record entries every day and push them to GitHub weekly).
+- 01/06/2020: Decided to report my daily progress on Twitter, and have been received lots of support from the tech community since then!
 
-<!-- - Weekly Reflection & Goals for Next Week :heavy_check_mark: -->
+- 25/06/2020: Achieved 100 days of code!!!
 
-<!--
+---
+
+**Day 100 Stand up | 25/06**
+
+Yesterday
+
+- AWS re/Start Program Day 3 :heavy_check_mark:
+- Company H: interview prep :heavy_check_mark:
+- Meetup: Girls In Tech Australia - Girl Boss Night (Such a great event! Will write a post about it later) :heavy_check_mark:
+- Company A: interview prep :heavy_check_mark:
+- Running: 3kms :running:
+
+Today
+
+- AWS re/Start Program Day 4
+- Company H: Phone interview
+
+---
+
+**Day 99 Stand up | 24/06**
+
+Yesterday
+
+- AWS re/Start Program Day 2 :heavy_check_mark:
+
+Today
+
+- AWS re/Start Program Day 3
+- Company H: interview prep
+- Meetup Girls In Tech Australia
+- Company A: interview prep
+
+---
+
+**Day 98 Stand up | 23/06**
+
+Yesterday
+
+- AWS re/Start Program Day 1 :heavy_check_mark:
+- Job applications \* 2 :heavy_check_mark:
+- Running: 3kms :running:
+
+Today
+
+- AWS re/Start Program Day 2
+- Company E: interview prep & video interview
 
 ---
 
@@ -19,11 +68,13 @@
 Yesterday
 
 - Weekly Reflection & Goals for Next Week :heavy_check_mark:
+- Job-seeking plan re-planned after 3 months :heavy_check_mark:
+- Getting Started with JavaScript, v2 - Kyle Simpson :heavy_check_mark:
+- Walking: 3kms :running:
 
 Today
 
-
- -->
+- AWS re/Start Program Day 1
 
 ---
 
@@ -252,7 +303,7 @@ Today
 
 Yesterday
 
-- Interview prep (Company P) & phone screening at 3pm :heavy_check_mark:
+- Interview prep (Company P) & phone screening at 3 pm :heavy_check_mark:
 - INCO Academy Assignment 6 :heavy_check_mark:
 - Data structure & algorithm course: Colt Steele (Section 23: Tree Traversal) :heavy_check_mark:
 
@@ -318,7 +369,7 @@ Yesterday
 
 - 1000-1400 INCO Academy Workshop 5 :heavy_check_mark:
 - BAHR: Assignment 3.2 :heavy_check_mark:
-- Updated CV, set up custom domain for my portfolio site :heavy_check_mark:
+- Updated CV, set up a custom domain for my portfolio site :heavy_check_mark:
 
 Today
 
@@ -399,7 +450,7 @@ Today
 Yesterday
 
 - 1000-1330, 1630-2130 INCO Academy assignment 3 group meetings :heavy_check_mark:
-- Data structure & algorithm course: Colt Steele (Section 18: Data Structures Introduction & Section 19: Singly Linked Lists) :heavy_check_mark:
+- Data structure & algorithm course: Colt Steele (Section 18: Data Structures Introduction & Section 19: Singly Linked Lists) :heavy_check_mark:
 - job applications\*5 :heavy_check_mark:
 
 Today
@@ -413,8 +464,8 @@ Today
 
 Yesterday
 
-- Data structure & algorithm course: Stephen Grider (section 15 & 16) :heavy_check_mark:
-- 1700-1745 INCO Academy assignment 3 group meeting  :heavy_check_mark:
+- Data structure & algorithm course: Stephen Grider (section 15 & 16) :heavy_check_mark:
+- 1700-1745 INCO Academy assignment 3 group meeting :heavy_check_mark:
 - Running: 4kms :running:
 
 Today
@@ -429,8 +480,8 @@ Today
 
 Yesterday
 
-- 1000-1400 INCO Academy Workshop 3 :heavy_check_mark:
-- Data structure & algorithm course: Colt Steele (section 9) :heavy_check_mark:
+- 1000-1400 INCO Academy Workshop 3 :heavy_check_mark:
+- Data structure & algorithm course: Colt Steele (section 9) :heavy_check_mark:
 
 Today
 
@@ -849,7 +900,7 @@ Today
 
 Yesterday
 
-- Angular course: Navigation & Routing Basics II :heavy_check_mark:
+- Angular Course: Navigation & Routing Basics II :heavy_check_mark:
 - Conquering responsive layouts: day 09 & 10 :heavy_check_mark:
 - Interview: online culture assessment (Company W) :heavy_check_mark:
 - Job applications\*3 :heavy_check_mark:
